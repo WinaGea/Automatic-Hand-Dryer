@@ -35,7 +35,7 @@ See the main code file in the folder: [`Code/HandDryer.ino`](Code/HandDryer.ino)
 
 The following images show the complete design, schematic, implementation, and testing process of the project:
 
-- [`Images/Desain_Perancangan_Sistem.png`](Images/Desain_Perancangan_Sistem.png) – System design overview showing the main concept and component interaction.  
+- [`Images/Desain_Perancangan_Sistem.jpg`](Images/Desain_Perancangan_Sistem.jpg) – System design overview showing the main concept and component interaction.  
 - [`Images/Desain_Skematik.png`](Images/Desain_Skematik.png) – Electronic schematic illustrating connections between Arduino UNO, ultrasonic sensor, relay, LED, buzzer, and fan.  
 - [`Images/Flowchart.png`](Images/Flowchart.png) – Flowchart showing the logical process of the automatic hand dryer operation.  
 - [`Images/Implementasi_Hardware_Front.jpg`](Images/Implementasi_Hardware_Front.jpg) – Front view of the hardware implementation.  
