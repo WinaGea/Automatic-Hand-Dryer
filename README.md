@@ -40,7 +40,7 @@ The following images show the complete design, schematic, implementation, and te
 - [`Images/Flowchart.jpg`](Images/Flowchart.jpg) – Flowchart showing the logical process of the automatic hand dryer operation.  
 - [`Images/Implementasi_Hardware_Front.jpg`](Images/Implementasi_Hardware_Front.jpg) – Front view of the hardware implementation.  
 - [`Images/Implementasi_Hardware_Under.jpg`](Images/Implementasi_Hardware_Under.jpg) – Bottom view of the hardware wiring and layout.  
-- [`Images/Pengujian Hardware.jpg`](Images/Pengujian Hardware.jpg) – Hardware testing results and performance visualization.
+- [`Images/Pengujian_Hardware.jpg`](Images/Pengujian_Hardware.jpg) – Hardware testing results and performance visualization.
 
 
 
