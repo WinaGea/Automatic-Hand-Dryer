@@ -1,5 +1,0 @@
-Automatic Hand Dryer Project Report
-Author: Wina Sorta Maria Gea
-Major: Computer Technology, Del Institute of Technology
-
-This report summarizes the design, implementation, and testing of an automatic hand dryer system using Arduino UNO, ultrasonic sensors, and DC fans.
