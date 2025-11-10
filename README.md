@@ -37,7 +37,7 @@ The following images show the complete design, schematic, implementation, and te
 
 - [`Images/Desain_Perancangan_Sistem.jpg`](Images/Desain_Perancangan_Sistem.jpg) – System design overview showing the main concept and component interaction.  
 - [`Images/Desain_Skematik.jpgg`](Images/Desain_Skematik.jpg) – Electronic schematic illustrating connections between Arduino UNO, ultrasonic sensor, relay, LED, buzzer, and fan.  
-- [`Images/Flowchart.png`](Images/Flowchart.png) – Flowchart showing the logical process of the automatic hand dryer operation.  
+- [`Images/Flowchart.jpg`](Images/Flowchart.jpg) – Flowchart showing the logical process of the automatic hand dryer operation.  
 - [`Images/Implementasi_Hardware_Front.jpg`](Images/Implementasi_Hardware_Front.jpg) – Front view of the hardware implementation.  
 - [`Images/Implementasi_Hardware_Under.jpg`](Images/Implementasi_Hardware_Under.jpg) – Bottom view of the hardware wiring and layout.  
 - [`Images/Pengujian_Hardware.png`](Images/Pengujian_Hardware.png) – Hardware testing results and performance visualization.
